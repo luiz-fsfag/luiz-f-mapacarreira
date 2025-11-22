@@ -59,11 +59,11 @@ Se você deseja contribuir:
 
 ### 👤 Autor
 
-Desenvolvido por:
+Editado por:
 
   * **Luiz Fellipe Silva Fagundes**
       * linkedin.com/in/luiz-fsfagundes
-      * https://github.com/luiz-fsfag - (Coloque o link do seu perfil do GitHub)
+      * github.com/luiz-fsfag
 
 -----
 
